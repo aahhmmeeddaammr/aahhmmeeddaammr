@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ahmed Amr and I'm a Software Engineer @ FCAI-CU</h2>
+<h2 align="left">Hi 👋! My name is Ahmed Amr and I'm a Software Engineer Student @ FCAI-CU</h2>
 
 ###
 
